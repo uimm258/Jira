@@ -5,12 +5,12 @@
 The purpose of this project is to build a mock Jira tool by using React.JS.
 
 - ### What is Jira?
+
   Jira is a product that helps various teams manage their work.
 
-"Jira Software is built for every member of your software team to plan,
-track, and release great software." -- Atlassian.com
+  "Jira Software is built for every member of your software team to plan, track, and release great software." -- Atlassian.com
 
-[More Here](https://www.atlassian.com/software/jira)
+  [More Here](https://www.atlassian.com/software/jira)
 
 - ### What are the main functionalities?
 
