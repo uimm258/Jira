@@ -1,58 +1,57 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Patrick"
-      },
-      {
-        "id": 2,
-        "name": "Adam"
-      },
-      {
-        "id": 3,
-        "name": "JR"
-      },
-      {
-        "id": 4,
-        "name": "Michael"
-      }
-    ],
-    "projects": [
-      {
-        "id": 1,
-        "name": "HR Manage System",
-        "personId": 1,
-        "organization": "Human Resource Team",
-        "created": 1604989757139
-      },
-      {
-        "id": 2,
-        "name": "Sales Manage System",
-        "personId": 2,
-        "organization": "Sales Team",
-        "created": 1604989757139
-      },
-      {
-        "id": 3,
-        "name": "Logistic Manage System",
-        "personId": 2,
-        "organization": "Logistic Team",
-        "created": 1546300800000
-      },
-      {
-        "id": 4,
-        "name": "CS Manage System",
-        "personId": 3,
-        "organization": "Customer Service Team",
-        "created": 1604980000011
-      },
-      {
-        "id": 5,
-        "name": "WH Manage System",
-        "personId": 4,
-        "organization": "Warehouse Team",
-        "created": 1546900800000
-      }
-    ]
-  }
-  
+  "users": [
+    {
+      "id": 1,
+      "name": "Patrick"
+    },
+    {
+      "id": 2,
+      "name": "Adam"
+    },
+    {
+      "id": 3,
+      "name": "JR"
+    },
+    {
+      "id": 4,
+      "name": "Michael"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "HR System",
+      "personId": 1,
+      "organization": "Human Resource Team",
+      "created": 1604989757139
+    },
+    {
+      "id": 2,
+      "name": "Sales System",
+      "personId": 1,
+      "organization": "Sales Team",
+      "created": 1604989757139
+    },
+    {
+      "id": 3,
+      "name": "Logistic System",
+      "personId": 2,
+      "organization": "Logistic Team",
+      "created": 1546300800000
+    },
+    {
+      "id": 4,
+      "name": "CS System",
+      "personId": 3,
+      "organization": "Customer Service Team",
+      "created": 1604980000011
+    },
+    {
+      "id": 5,
+      "name": "IT System",
+      "personId": 4,
+      "organization": "Information Technology Team",
+      "created": 1546900800000
+    }
+  ]
+}
