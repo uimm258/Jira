@@ -29,7 +29,7 @@ export const ProjectListScreen = () => {
                 setUsers(await res.json())
             }
         })
-    }, [param])
+    }, [])
 
     return <div>
         <SearchPanel users={users} param={param} setParam={setParam}/>
