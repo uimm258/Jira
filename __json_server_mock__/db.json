@@ -34,7 +34,7 @@
     },
     {
       "id": 3,
-      "name": "WH",
+      "name": "Logistic",
       "personId": 2,
       "organization": "Logistic Team",
       "created": 1546300800000
