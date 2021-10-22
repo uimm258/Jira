@@ -10,7 +10,7 @@ export const SearchPanel = ({users, param, setParam}) => {
             })}/>
             <select value={param.personId} onChange={(e) => setParam({
                 ...param,
-                personaId: e.target.value
+                personId: e.target.value
             })}>
                 <option value={''}>Manager</option>
                 {
