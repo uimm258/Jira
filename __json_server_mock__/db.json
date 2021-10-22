@@ -20,35 +20,35 @@
   "projects": [
     {
       "id": 1,
-      "name": "HR System",
+      "name": "HR",
       "personId": 1,
       "organization": "Human Resource Team",
       "created": 1604989757139
     },
     {
       "id": 2,
-      "name": "Sales System",
+      "name": "Sales",
       "personId": 1,
       "organization": "Sales Team",
       "created": 1604989757139
     },
     {
       "id": 3,
-      "name": "Logistic System",
+      "name": "WH",
       "personId": 2,
       "organization": "Logistic Team",
       "created": 1546300800000
     },
     {
       "id": 4,
-      "name": "CS System",
+      "name": "CS",
       "personId": 3,
       "organization": "Customer Service Team",
       "created": 1604980000011
     },
     {
       "id": 5,
-      "name": "IT System",
+      "name": "IT",
       "personId": 4,
       "organization": "Information Technology Team",
       "created": 1546900800000
