@@ -22,7 +22,7 @@
       "id": 1,
       "name": "HR",
       "personId": 1,
-      "organization": "Human Resource Team",
+      "organization": "HR/Acc Team",
       "created": 1604989757139
     },
     {
@@ -34,9 +34,9 @@
     },
     {
       "id": 3,
-      "name": "Logistic",
+      "name": "Accountant",
       "personId": 2,
-      "organization": "Logistic Team",
+      "organization": "HR/Acc Team",
       "created": 1546300800000
     },
     {
@@ -48,9 +48,9 @@
     },
     {
       "id": 5,
-      "name": "IT",
+      "name": "WH",
       "personId": 4,
-      "organization": "Information Technology Team",
+      "organization": "Warehouse Team",
       "created": 1546900800000
     }
   ]
