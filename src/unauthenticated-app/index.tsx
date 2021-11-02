@@ -10,7 +10,7 @@ export const UnauthenticatedApp = () => {
       {isRegister ? <RegisterScreen /> : <LoginScreen />}
 
       <button onClick={() => setIsRegister(!isRegister)}>
-        Switch to {isRegister ? "Register" : "Login"}
+        Switch to {isRegister ? "Login" : "Register"}
       </button>
     </div>
   );
