@@ -20,6 +20,7 @@ export const ProjectListScreen = () => {
   }, [debouncedParam]);
 
   useMount(() => {
+    console.log("something");
     client("users").then(setUsers);
   });
 
